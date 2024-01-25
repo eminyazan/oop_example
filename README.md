@@ -1,16 +1,8 @@
-# oop_example
+# Flutter OOP Example
 
-A new Flutter project.
+In this tutorial, we talked about Object Oriented Programming in Flutter.
 
-## Getting Started
+We talked about abstraction, encapsulation, singleton and MVVM. I tried to explain the pros and cons of OOP. And we made an example with a very common service, the network service. I showed how you can easily change one of your main packages thanks to OOP. I explained how to work package independent. I am waiting for your feedback and I hope you watch the video. You can reach me at eminyazan12@gmail.com mail address.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Watch Tutorial From Here](https://www.youtube.com/watch?v=0oR0qqtNMBQ)
